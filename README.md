@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/JhonsDias">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonpsDias Bem-vindo(a) ao perfil do JhonpsDias 😁
 
  <div>
    <a href="https://github.com/JhonpsDias">
